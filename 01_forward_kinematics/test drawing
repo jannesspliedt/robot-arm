@@ -1,0 +1,6 @@
+import matplotlib.pyplot as plt
+
+xs = [0, 1, 2]
+ys = [0, 1, 0]
+plt.plot(xs, ys, "o-")
+plt.show()
